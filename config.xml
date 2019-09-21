@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "Fangelegsspillet.1.EmilyCecilie"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Fangelegsspillet</name>
+
+  <description>
+      Fangeleg, et spil af EmilyCecilie
+  </description>
+
+  <author email="emilyurhoj@gmail.com">
+      EmilyCecilie
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
